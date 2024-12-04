@@ -27,27 +27,24 @@
 
 ## Documentation for the API(booking):
 -	Load Test
+ ![Load test (Report)](https://github.com/user-attachments/assets/fcd5297f-5ee2-4148-a5c7-613d39ed5f41)
 
-  ![Load test (Report)](https://github.com/user-attachments/assets/962f6dcf-a89a-42b2-a652-4f004859b483)
-  
-![Load test](https://github.com/user-attachments/assets/f9b033ed-5d7c-4f45-8a14-ef2f25d9da33)
-
-
- 
+![Load test](https://github.com/user-attachments/assets/f4bff86d-2b00-4fcf-b6a5-6313ccf1ade5)
 
  -	Stress Test
 
-   ![Stress test(report)](https://github.com/user-attachments/assets/b86f0771-31bc-4cfd-ac3d-395176ab046f)
-
-   ![Stress Test](https://github.com/user-attachments/assets/b3a17ac4-2703-4746-ae70-11c8dd0af933)
-
+  
+![Stress Test](https://github.com/user-attachments/assets/f57a32c2-8237-4a8f-b2d8-6459f336a8a4)
+![Stress test(report)](https://github.com/user-attachments/assets/419198e4-e353-40a3-846d-c50ade94c049)
 
 
 
 ## Documentation for the API(dmoney):
 
-![dmoney(requests Summary)](https://github.com/user-attachments/assets/79cdf509-7c98-4b22-a768-4250bb26bf90)
-![dmoney(statistics)](https://github.com/user-attachments/assets/4ba3c60a-a584-4a48-8ee5-d674539f6aad)
+![image](https://github.com/user-attachments/assets/5726f254-308a-4c0a-9474-7e8084df8f37)
+
+![image](https://github.com/user-attachments/assets/6b85b254-1d88-4c78-afe9-4262fbfa73ad)
+
 
 
 
